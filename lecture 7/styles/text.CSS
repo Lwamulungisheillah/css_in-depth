@@ -1,0 +1,42 @@
+h1{
+  color:red;
+  text-align: center;
+  text-transform: lowercase;
+  font-size: 100px;
+  text-shadow: 2px 2px black;
+ 
+}
+h4{
+   direction: rtl;
+   unicode-bidi: bidi-override;
+   text-decoration-line: overline underline;
+   text-decoration-color:tomato;
+   text-decoration-style: wavy;
+   text-decoration-thickness:10px;
+  text-indent: 300px;
+}
+.a{
+    text-align-last: justify;
+    text-transform: capitalize;
+}
+img.b{
+    vertical-align:text-bottom;
+    
+}
+img.c{
+    vertical-align: text-top;
+}
+img.d{
+    vertical-align: text-bottom;
+}
+.e{
+    text-transform: uppercase;
+}
+.f{
+    text-transform: capitalize;
+}
+p{
+    letter-spacing:5px;
+    line-height: 1;
+    word-spacing: 5px;
+}

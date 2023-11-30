@@ -1,0 +1,19 @@
+a:link{ 
+        background-color: #f44336; 
+        color: white;
+        padding: 14px 25px;
+         text-align: center; 
+         text-decoration: none; 
+         display: inline-block;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+        background-color: black;
+        color: white;
+}
+a:active{
+    background-color: green;
+}   
+    
